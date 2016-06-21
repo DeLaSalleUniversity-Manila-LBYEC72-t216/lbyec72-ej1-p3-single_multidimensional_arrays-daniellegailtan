@@ -9,7 +9,12 @@ Exit
 
 ![](Activity 4-4.PNG)
 
+Polynomial
+
 ![](Activity 4-1.1.PNG)
+
 ![](Activity 4-2.PNG)
+
+Returns back to Main Menu
 ![](Activity 4-3.PNG)
 
