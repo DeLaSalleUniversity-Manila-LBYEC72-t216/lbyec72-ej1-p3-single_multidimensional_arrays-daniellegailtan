@@ -7,4 +7,3 @@ Done with Polynomial
 ![](Activity 4-2.PNG)
 ![](Activity 4-3.PNG)
 ![](Activity 4-4.PNG)
-.
